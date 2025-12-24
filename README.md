@@ -90,7 +90,8 @@ template.html
 
 ## HOMEPAGE:
 
-![alt text](image-1.png)
+<img width="1918" height="1060" alt="Screenshot 2025-12-24 101312" src="https://github.com/user-attachments/assets/2ed210c7-f7cd-4b33-ac8f-8298808d51b5" />
+
 
 
 ## RESULT:
